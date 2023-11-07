@@ -1,0 +1,12 @@
+{
+  "Items": [
+    {
+      "id": 0,
+      "type": "Quadcopter",
+      "north": 0,
+      "east": -4,
+      "offset": 1,
+      "orientation": 0
+    }
+  ]
+}

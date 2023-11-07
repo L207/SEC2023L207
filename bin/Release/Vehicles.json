@@ -1,0 +1,44 @@
+{
+  "Items": [
+    {
+      "id": 0,
+      "type": "Truck",
+      "north": 1,
+      "east": -2,
+      "offset": 0.01,
+      "orientation": 0
+    },
+    {
+      "id": 1,
+      "type": "Truck",
+      "north": 1,
+      "east": 2,
+      "offset": 0.01,
+      "orientation": 0
+    },
+    {
+      "id": 2,
+      "type": "Quadcopter",
+      "north": 1,
+      "east": 0,
+      "offset": 4.0,
+      "orientation": 0
+    },
+    {
+      "id": 3,
+      "type": "Quadcopter",
+      "north": -1,
+      "east": -2,
+      "offset": 4.0,
+      "orientation": 0
+    },
+    {
+      "id": 4,
+      "type": "Quadcopter",
+      "north": -1,
+      "east": 2,
+      "offset": 4.0,
+      "orientation": 0
+    }
+  ]
+}
